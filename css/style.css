@@ -1,0 +1,85 @@
+/* Author: Aswathy */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.first {
+	background-image: url("../images/background/agency-slider-04.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+}
+
+.delicious {
+	background-color: #e9683f;
+}
+
+.booknow,
+.discover {
+	display: inline-block;
+}
+.card-img-top {
+	width: 30%;
+}
+
+.tasty {
+	background-color: rgba(255, 228, 196, 0.829);
+}
+
+.main_menu {
+	background-image: url("../images/background/restaurant-menu-bg.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.amzing {
+	background-image: url("../images/background/hero-bg9.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.enjoy {
+	background-image: url("../images/background/fitness-about-bg.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.form {
+	background-image: url("../images/background/hero-bg3.jpg"),
+		linear-gradient(to bottom, #000000c9, #000000c9);
+	/* filter: opacity(0.9); */
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+input {
+	filter: brightness(1);
+}
+.svg {
+	width: 25px;
+	fill: aliceblue;
+}
+.ftrsvg {
+	width: 20px;
+	margin-left: 15px;
+}
+.fbicon {
+	width: 13px;
+	margin-left: 15px;
+}
+
+.crclslide {
+	border-radius: 100%;
+	width: 10px !important;
+	height: 10px !important;
+}
+
+.font {
+	font-size: 12px;
+}
